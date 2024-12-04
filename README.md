@@ -1,1 +1,1 @@
-# NyxBio - A data analysis tool for wet lab scientists
+# BenchFlow - A data analysis tool for wet lab scientists
