@@ -1,10 +1,10 @@
 {
-  "name": "nyxbio",
+  "name": "benchflow",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite & nodemon server/server.js",
+    "dev": "vite & nodemon server/server.cjs",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
